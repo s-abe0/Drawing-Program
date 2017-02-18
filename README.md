@@ -1,6 +1,6 @@
 # Drawing-Program
 
-![drawprogram](https://cloud.githubusercontent.com/assets/25370724/23096744/d52f78fe-f5f0-11e6-9dc1-9a2994723bb2.png)
+![drawprogram](https://cloud.githubusercontent.com/assets/25370724/23096793/0e49c5b2-f5f2-11e6-8de9-d82956a109f4.png)
 
 A very simply drawing program that I doodled together while on vacation at the beach. 
 Currently supports black, red and blue colors. To draw, hold the SHIFT key and use the arrow keys. 
